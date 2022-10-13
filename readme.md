@@ -1,3 +1,2 @@
-##What Is This?##
-
-A to do list app built on javascript (and a little HTML). Its pretty neat, it'll keep your entries stored even after you close it. 
+# todo_app
+To-Do list application demonstrating javascript html and css
